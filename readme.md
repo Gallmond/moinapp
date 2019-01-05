@@ -3,7 +3,7 @@
 ## Assumptions
 - Environment has php7.1+, composer, laravel installed already with correct permissions and PATH settings.
 - I used homebrew for PHP7.1+
-- https://getcomposer.org/download/ for composer
+- [https://getcomposer.org/download/](https://getcomposer.org/download/) for composer
 - composer global require "laravel/installer" for laravel
 - composer global require "laravel/valet" for local testing
 
@@ -30,4 +30,4 @@ Application key set successfully.
 $ cd ..
 $ valet secure moinapp
 ```
-At this point visiting moinapp.dev should run the site
+At this point visiting [https://moinapp.dev/screen_one](https://moinapp.dev/screen_one) should run the site
